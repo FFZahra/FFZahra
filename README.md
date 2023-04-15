@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FFZahra
 - 👀 I’m interested in Machine Learning, AI, DevOps
-- 🌱 I’m currently learning to become well acquainted with Linux environments
-- 💞️ I’m looking to collaborate on ... nothing yet - just getting to know GitHub at the moment
-- 📫 How to reach me ... (n/a)
+- 🌱 I’m currently learning to Spring Boot, and taking my Java skills to an advanced level
+- 💞️ I’m looking to collaborate on Open Source applications
+- 📫 How to reach me ... you can contact me through [my website](https://fatisahid.site/myPortfolio)
 
 <!---
 FFZahra/FFZahra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
